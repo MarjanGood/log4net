@@ -1,0 +1,3 @@
+2021-07-10 11:14:50,270 [1] INFO ConsoleApp1.Program - Hello logging world!
+2021-07-10 11:14:50,290 [1] ERROR ConsoleApp1.Program - Error!
+2021-07-10 11:14:50,290 [1] WARN ConsoleApp1.Program - Warn!
